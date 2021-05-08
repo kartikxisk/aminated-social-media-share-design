@@ -1,4 +1,4 @@
-# aminated-social-media-share-design
+# aminated social media share design
 animated social media share design using HTML, CSS and Javascript. Hope you gonna love it
 
 ![Screenshot_2](https://user-images.githubusercontent.com/54768757/117545543-dbb06500-b043-11eb-85de-7819c648459b.png)
